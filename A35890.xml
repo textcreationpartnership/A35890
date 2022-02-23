@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between Sophronius and Philobelgus the second part.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35890</idno>
+            <idno type="STC">Wing D1325</idno>
+            <idno type="STC">ESTC R6338</idno>
+            <idno type="EEBO-CITATION">12320828</idno>
+            <idno type="OCLC">ocm 12320828</idno>
+            <idno type="VID">59475</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 936:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between Sophronius and Philobelgus the second part.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sophronius.</term>
+               <term>Philobelgus.</term>
+               <term>English literature --  Anecdotes</term>
+               <term>English literature --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:59475:1" rendition="simple:additions"/>
+            <head>A DIALOGUE between <hi>Sophronius</hi> and <hi>Philobelgus,</hi> The Second PART.</head>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>WEll met, <hi>Sophronius!</hi> Where have you been lurking theſe <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo long Years, and upwards?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I have been to take care of my Concerns in <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> and (as it happened) <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o transfer my Effects from thence.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>When I laſt parted with you, I <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emember you raiſed a Diſcourſe con<g ref="char:EOLhyphen"/>cerning that Place, which hath run in my Head ever ſince, and made me ex<g ref="char:EOLhyphen"/>tremely deſirous to ſee you again.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Then I hope you have conſider<g ref="char:EOLhyphen"/>ed of that Diſcourſe, as I deſired you.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Conſidered, ſay you? I think it is high time for us all to conſider, if it be not too late to conſider: Things are here at a ſtrange paſs, I wiſh I could ſay, not in a deſperate condition. But pray what made you leave <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> at this time? I have heard that place highly commended.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Indeed I have known the time I could have commended it as much as any Man; the Soil pleaſant and fruitfull; the People juſt, hoſpitable, and generous; the Courts of Judicature honourable for Juſtice, and nothing wanting to make Life comfortable: But now all things are turned topſy turvy, and it's nothing like the place it was.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Why? Pray what's the Matter? Sure they can never be ſo mad in any other place, as with us.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>How Matters are with you I yet know not; but ſome years ſince none there would have thought ſuch a Change poſſible. The very Earth ſeems to mourn; there is neither Truth nor Honeſty a<g ref="char:EOLhyphen"/>mongſt the Inhabitants; no Promiſes or Oaths can bind them; you go in moſt danger from your boſome Friend; all Perſons are jealous of each other; and the greateſt part with all their Might and Main are pulling Deſtruction on their own and all others Heads, and are fond of it; and (which ſeems to make the Matter remedileſs) a ſhameleſs <hi>
+                     <g ref="char:V">Ʋ</g>ſurper and Foreigner</hi> is made their <hi>King,</hi> who hates them, and can never be ſafe but in their Ruine, or Slavery at leaſt.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>This is bad indeed; but I war<g ref="char:EOLhyphen"/>rant you think you have mended the matter with coming over hither.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I hope ſo; for certainly a Man cannot find out a worſe place than that is now.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I will not be your Security for that. I rather fear that by that time you have been here ſome while, you will think you have leap'd out of the Frying<g ref="char:EOLhyphen"/>pan into the Fire.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>God forbid! But pray, Sir, in<g ref="char:EOLhyphen"/>form me a little how Matters go with you here.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>That is needleſs; for a little Converſation will ſoon inform you of the ſtate of our Affairs, better than any Re<g ref="char:EOLhyphen"/>lation can do: But in the mean time let me adviſe you to keep a cloſe pair of Chops; not to truſt either your Father, or your Child; look well to your hits, and in a ſhort time you will ſee Reaſon for this Advice, and a great deal more.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>God defend me! What a mad World is this, when a Man knows not where to go to live ſafely or honeſtly! But, good Sir, explain; for I am all on
+<pb n="2" facs="tcp:59475:2"/>fire to know what new World I am come into, though it be my own Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>No, no; you will hear and ſee it every day; you may learn it from every Fool, but beware of Information from a Knave. Beſides, the Story you were telling of <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> hath been hitherto ſo like it, that I begin to grow ſuſpitious, that the Progreſs of your Tale will pre<g ref="char:EOLhyphen"/>vent me and every body elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>But you ought to be ſo civil to a Stranger, as to grant his Requeſt in the firſt place.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I am not uncivil, nor would you be pleaſed that I ſhould grant it; for you know it is the Prerogative of Travellers to have all the Talk, and the Curioſity of others makes them impatient, till they are gratified with the Stories of their foreign Obſervations; therefore in ſhort I am reſolved I will have it out of you: But ſince in your former Diſcourſe you told me much of the Revolutions in <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> which ſeemed to you to be as im<g ref="char:EOLhyphen"/>pious and unjuſt, as they were ſtrange and wonderfull; before you proceed I would intreat you to diſcover (what you can) the Springs and Cauſes of that Re<g ref="char:EOLhyphen"/>volution.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Well, ſince you are reſolved, I think it will be moſt for my Eaſe to ſa<g ref="char:EOLhyphen"/>tisfie you as ſpeedily as I can: But you put a hard task upon me; for the Cauſe of ſuch a prodigious turn of Affairs lay deep under Ground; and there are ma<g ref="char:EOLhyphen"/>ny which Time hath not yet brought to light.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Do not think I would put ſuch an unconſcionable Task upon you, as to require more than you know, or can with fair probability conjecture.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Well; ſince you are become pretty reaſonable, take what Account I can give you thus. <hi>Benignus,</hi> King of <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> was well beloved by his People, (except it were by a brood of <hi>Republicans,</hi> who of late much infeſt that Kingdom, and love no Kings,) and indeed he was a Man of admirable Parts, vaſt Experi<g ref="char:EOLhyphen"/>ence, but given to his Eaſe, and by all means avoided the Fatigue of Buſineſs, though no Man did it better, nor more dexterouſly, when he would look to<g ref="char:EOLhyphen"/>wards it: But he dying ſuddenly, and without any legitimate Iſſue, left all his Dominions to his Brother <hi>Conſtantius.</hi> There never were a pair of more loving Brothers, though of ſtrangely different Tempers; for <hi>Conſtantius</hi> as much gave his mind to Buſineſs, as his Brother had done to decline it; a better husband with the Revenues never ſat upon the Throne, a Lover of Juſtice, punctual to his Word, ambitious to advance the Honour and In<g ref="char:EOLhyphen"/>tereſt of his Kingdoms, and in ſhort a Prince endowed with all Royal Qualifi<g ref="char:EOLhyphen"/>cations, and ſeemed born for Govern<g ref="char:EOLhyphen"/>ment; ſo that for ſome time all Perſons were as big with Expectations from him, as from any Perſon who ever came to the Crown.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>You amaze me: How could ſuch a Prince miſcarry?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>One would not think it could be eaſily; but they have a Saying in <hi>
+                     <g ref="char:V">Ʋ</g>topia, That one Drachin of Colloquintida ſpoils the whole Pot of Pottage.</hi> There had been in his Father's time the moſt unnatural Re<g ref="char:EOLhyphen"/>bellion that ever the world knew, where<g ref="char:EOLhyphen"/>in the beſt of <hi>Kings</hi> was barbarouſly mur<g ref="char:EOLhyphen"/>thered by his own Subjects, and <hi>Conſtan<g ref="char:EOLhyphen"/>tius,</hi> then very young, to preſerve his Life was conveyed into a neighbouring Kingdom, where of courſe, and unavoi<g ref="char:EOLhyphen"/>dably he was inſtructed and brought up in the <hi>Religion</hi> of that Nation, which was irreconcilable with the <hi>Religion eſtabliſhed</hi> in <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> and indeed hatefull to the ge<g ref="char:EOLhyphen"/>nerality of all Perſons in all the Domini<g ref="char:EOLhyphen"/>ons belonging to it; but being early im<g ref="char:EOLhyphen"/>bibed, and having taken root with time, he was as tender of his <hi>Conſcience,</hi> as jea<g ref="char:EOLhyphen"/>lous
+<pb n="3" facs="tcp:59475:2"/>of his <hi>Honor;</hi> and when he came to to the Throne would not change his Re<g ref="char:EOLhyphen"/>ligion, though ſo hatefull to his People.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>What then? So far as I can ga<g ref="char:EOLhyphen"/>ther by the circumſtances of your Story, though that was his Misfortune, yet it was his Peoples Fault; and could it ſeem reaſonable to depoſe him for his <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> and their own <hi>Crime?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I am glad to hear you talk ſo much like a Chriſtian, whoſe Principles at our laſt Meeting you ſeemed either to have forgotten, or never well learn'd: But though his Religion gave too advan<g ref="char:EOLhyphen"/>tagious an opportunity to <hi>Knaves,</hi> and their Inſtruments, <hi>weak Men,</hi> to under<g ref="char:EOLhyphen"/>mine him; yet that alone had never done it, had not other fatal Circumſtances concurred; and therefore I muſt intreat your Patience whilſt I relate them, till I can bring them to this again.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I am willing to have Patience; but I muſt confeſs I devour your Story with ſo much Greedineſs, that ſome would call it Impatience.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Pray contain your ſelf what <hi>you</hi> can, and I will be as ſhort as <hi>I</hi> can, tho' ſhorter than the Nature of the Thing will well bear.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Pray, Sir, go on.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Well; then you muſt know that the unfortunate but brave <hi>Conſtantius</hi> had two Wives, the latter at this time bea<g ref="char:EOLhyphen"/>ring her ſhare in his Afflictions, the other was an <hi>
+                     <g ref="char:V">Ʋ</g>topian</hi> Subject, and by her he had two Daughters, <hi>Aſtorge</hi> and <hi>Placi<g ref="char:EOLhyphen"/>dia;</hi> and theſe being ſo near of kin to a Crown that could have mated any, if not all the Princes in that Quarter of the World, had been Matches for the grea<g ref="char:EOLhyphen"/>teſt Princes whatſoever, but that both their Uncle <hi>Benignus,</hi> and their Father <hi>Conſtantius,</hi> ſeem'd likely enough to have other Children. But whilſt theſe things were doubtfull, by the kindneſs of their Uncle <hi>Benignus</hi> they were both married, <hi>Aſtorge</hi> to <hi>Philotimus,</hi> Prince of <hi>Angero,</hi> and <hi>Placidia</hi> to <hi>Gregorio,</hi> Prince of <hi>Nadia.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>It ſeems then that <hi>Philotimus</hi> had the Honour to marry the eldeſt; pray what was he?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Your Queſtion is not imperti<g ref="char:EOLhyphen"/>nent, for on him depends the greateſt part of our Story: He had little to re<g ref="char:EOLhyphen"/>commend him to that Match, ſave that he was the next Relation of the Family; for his Territories, from whence he de<g ref="char:EOLhyphen"/>rived his Title, were in the Poſſeſſion of another Prince, his other Poſſeſſions were not very conſiderable; he was indeed by far the greateſt and moſt powerful Sub<g ref="char:EOLhyphen"/>ject of the <hi>Gallimaufrians,</hi> and was with-all a Man of boundleſs Ambition, barba<g ref="char:EOLhyphen"/>rous Cruelty, implacable Malice, perni<g ref="char:EOLhyphen"/>cious Contrivance, and (which you will ſay is a Riddle, tho' the poor <hi>
+                     <g ref="char:V">Ʋ</g>topians</hi> at this time find it true by Experience) a Perſon both inſatiably covetous, and prodigiouſly profuſe.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>You do not give the kindeſt Cha<g ref="char:EOLhyphen"/>racter of him that ever I heard: But pray what are thoſe <hi>Gallimaufrians,</hi> a<g ref="char:EOLhyphen"/>mong whom you ſaid he was the moſt powerful Subject?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Truly they are every thing, any thing, whatever is for their advantage.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Hey day! I am never the wiſer for this: Pray give me ſuch a Deſcription as may at leaſt give me ſome little under<g ref="char:EOLhyphen"/>ſtanding of them.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Why then you muſt underſtand, that theſe <hi>Gallimaufrians</hi> were Subjects to the Predeceſſors of <hi>Pauperantius, King</hi> of <hi>Thinland,</hi> and pretending Breach of Privileges, by that (which ſome are un<g ref="char:EOLhyphen"/>willing to call Rebellion) caſt off the Yoke, abjured their Maſter, and form'd themſelves into a <hi>popular State;</hi> which is not <hi>one</hi> entire thing, but <hi>ſeveral</hi> States, or petty Republicks, like <hi>Sampſon</hi>'s Foxes tied Tail to Tail, and firmly united by Neceſſity and Iniquity.</p>
+            </sp>
+            <pb n="4" facs="tcp:59475:3"/>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>And odd ſort of Government; and yet methinks it looks like that of a People croſs the Water, for whom not long ſince I had no ſmall kindneſs, and can ſcarce forget it yet.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>It may be ſo; but to proceed: Theſe <hi>Gallimaufrians</hi> in all their Diſtreſſes were relieved and upheld by the <hi>inconſi<g ref="char:EOLhyphen"/>derate <g ref="char:V">Ʋ</g>topians,</hi> till in the end by <hi>Induſtry</hi> and <hi>Knavery</hi> they arrived to that height as to become their Competitors, and are now in a manner their Maſters. Without Trade the <hi>
+                     <g ref="char:V">Ʋ</g>topians</hi> cannot live <hi>well,</hi> but the <hi>Gallimaufrians</hi> without it cannot live <hi>at all;</hi> and the <hi>
+                     <g ref="char:V">Ʋ</g>topians</hi> having Advan<g ref="char:EOLhyphen"/>tages enough (if they had either Wit or Courage to uſe them) to keep them un<g ref="char:EOLhyphen"/>der, the <hi>Gallimaufrians,</hi> who are ſuffici<g ref="char:EOLhyphen"/>ently ſenſible of it, are for that very rea<g ref="char:EOLhyphen"/>ſon, both by Intereſt and Inclination, their eternal Enemies, and as well in Peace as War, are ever labouring to ſup<g ref="char:EOLhyphen"/>plant them; for nothing binds them but their <hi>Intereſt.</hi> Religions they have of all ſorts among them; but 'tis believ'd they are of none; for it is never ſuffered to ſtand in the way of their Profit: And yet they have this Advantage; let them do what Miſchief they will, you can ne<g ref="char:EOLhyphen"/>ver faſten it on the whole Herd, many of which will pretend either <hi>Ignorance</hi> or <hi>Oppoſition</hi> to it, though they will certain<g ref="char:EOLhyphen"/>ly take the benefit of it: But as for par<g ref="char:EOLhyphen"/>ticular ſets of Rogues among them, they will commonly ſhuffle it to and fro, till they have loſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Certainly, <hi>Sophronius,</hi> you are romancing; for I cannot think there are ſuch a People on Earth, at leaſt they de<g ref="char:EOLhyphen"/>ſerve not: But pray paſs to ſomething elſe, I deſire to hear no more of them.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>You muſt not hear my Story then; but to humour your queamiſh Sto<g ref="char:EOLhyphen"/>mach at preſent, I'll leave them a while, and return to <hi>Philotimus,</hi> who having (as I told you) married <hi>Aſtorge,</hi> he was con<g ref="char:EOLhyphen"/>tinually buoy'd up by <hi>Benignus</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſtantius,</hi> and by the help of his own Arts, added to their Favour and Aſſiſtence, he ſoon arrived to that <hi>Intereſt</hi> and <hi>Power</hi> amongſt the <hi>Gallimaufrians,</hi> as to procure two of greateſt Eminency among them, of whom he was jealous, to be torn in pieces, in a more barbarous manner than can well be related; after which, not<g ref="char:EOLhyphen"/>withſtanding his Proteſtations and Oaths to the contrary, he had, in a manner, ſwallowed up their Freedom, and be<g ref="char:EOLhyphen"/>come their Maſter: But his Ambition not ſtopping there, he at the ſame time plaid Tricks with <hi>Benignus</hi> and <hi>Conſtan<g ref="char:EOLhyphen"/>tius,</hi> (who too much favoured him,) by <hi>cheriſhing Factions</hi> in <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> and <hi>encoura<g ref="char:EOLhyphen"/>ging ill</hi> and <hi>falſe Repreſentations</hi> of his Un<g ref="char:EOLhyphen"/>cle and Father-in-law among the <hi>Subjects</hi> of that <hi>Kingdom,</hi> which he did hope in time might work thoſe wicked Ends he hath ſince obtained.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>You tell a ſtrange and wonderful Story; but could not People ſee through ſuch palpable ill Artifices?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Some few did, and ſome could not; but none ſo blind as they that would not ſee: For ſuch Reports ſeem<g ref="char:EOLhyphen"/>ing to make for the Deſigns of Diſcon<g ref="char:EOLhyphen"/>tents and Republicans, they againſt their own Conſciences vouched them, and in<g ref="char:EOLhyphen"/>duſtriouſly ſpread them: But all this prevailed little, till the fatal Scene of Affairs opened, wherein all things con<g ref="char:EOLhyphen"/>curred to effect the Ruine of the <hi>unfortu<g ref="char:EOLhyphen"/>nate Conſtantius.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Oh! pray let me know what that could be, and be as ſhort as you can; for I am variouſly<g ref="char:punc">▪</g> affected with your Story, greedy to hear it, and grieved at the Villany of it.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I am affraid I ſhall ſeem tedious, though I loſe the greateſt part of the Story. To uſe then all poſſible brevity, know that <hi>Conſtantius</hi> coming to the Crown with all Advantages imaginable,
+<pb n="5" facs="tcp:59475:3"/>another Bleſſing befell him, which might have crowned all the reſt, had a right Uſe been made of it; his Queen <hi>Toleran<g ref="char:EOLhyphen"/>tia</hi> was delivered of a Son, the onely thing the <hi>
+                     <g ref="char:V">Ʋ</g>topians</hi> could have wiſh'd to have made them happy; for thereby they were not onely ſecured from the <hi>Reign of Foreigners,</hi> who neither under<g ref="char:EOLhyphen"/>ſtood their Conſtitutions, nor could have that kindneſs for them as a natural born Prince of their own; but his Education being granted to them, their Religion (which they have in a manner loſt for fear of loſing it) would have been ſecur'd, and the Intereſt both of Prince and People would have been the ſame. This <hi>Philoti<g ref="char:EOLhyphen"/>mus</hi> knew, and ſeemed to carry all fair, whilſt his Blood boiled within him; and never was Tyger robbed of her Whelps in a more furious Rage, than he to ſee himſelf thus cut off from the hopes of a Crown, which he had already devoured in his Thoughts: And now underhand he ſets all his Pioniers at work to under<g ref="char:EOLhyphen"/>mine his <hi>Father and Brother,</hi> when on a ſudden Circumſtances on all hands hap<g ref="char:EOLhyphen"/>pened to farther his Deſigns, even be<g ref="char:EOLhyphen"/>yond his hopes: For about that time <hi>Magnanimus,</hi> K. of <hi>Slavandria,</hi> a Prince of large Dominions, vaſt Treaſure and Revenues, undaunted Courage, ſtrong Judgment, and indefatigable Induſtry, at once makes War both upon <hi>Perplexus,</hi> Emperor of <hi>Regomania,</hi> and <hi>Pauperantius,</hi> K. of <hi>Thinland,</hi> and ſeveral other petty Princes, whom I will not trouble you to name.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>But how affects this <hi>Conſtantius?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Have patience, and you ſhall preſently perceive it. Almoſt all the neighbouring Princes enter into a Confe<g ref="char:EOLhyphen"/>deracy to oppoſe <hi>Magnanimus,</hi> and break his formidable Power and Strength; and to this End they had all caſt their Eyes upon <hi>Conſtantius,</hi> as the onely Prince who was able to turn the Balance, and put a ſtop to the Proceedings of that might<g ref="char:punc">▪</g> Monarch; nor did they gueſs amiſs.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Well; and would he not under<g ref="char:EOLhyphen"/>take this?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>No; and he was much in the right of it.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>How ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Why, he was in perfect Peace with all his Neighbours; and it ſeemed unjuſt to him to make a breach upon <hi>Magnanimus,</hi> who not only gave him no Cauſe, but courted his Friendſhip. He had alſo other ſtrong Inducements; for he thought it imprudent unneceſſarily to engage in a War, wherein he might ha<g ref="char:EOLhyphen"/>zard much, but could gain little: Be<g ref="char:EOLhyphen"/>ſides, by preſerving a Neutrality, the greateſt part of the Trade of the World muſt of courſe have faln into <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> which would have prodigiouſly enriched his Kingdoms and People, and much en<g ref="char:EOLhyphen"/>creaſed his own Revenues; and by this means being plentifully ſtored with Men, Money, Shipping, and Ammunition, and all things requiſite for War, in caſe <hi>Magnanimus</hi> had gone on too ſucceſsfully, he could with more Honor and Advan<g ref="char:EOLhyphen"/>tage have put a ſtop to his Proceedings, when Neceſſity ſeemed to require it.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I cannot ſee but that this was wiſely enough projected.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Truly I think ſo too; but there were other Failures ſpoiled all: For the <hi>confederated Princes</hi> ſeeing they ſhould be diſappointed of his Aſſiſtance, that they might by any means gain <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> to their ſide, conſpire with the diſcontented <hi>Phi<g ref="char:EOLhyphen"/>lotimus</hi> to raiſe him to the Throne, and depoſe his <hi>Father.</hi> And it is there con<g ref="char:EOLhyphen"/>fidently reported, that even the <hi>Mufti</hi> of <hi>Lavinia,</hi> whoſe Religion <hi>Conſtantius</hi> had eſpouſed to the extreme Diſtaſte of his Subjects, was at the bottom of this Plot againſt him.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>This ſeems to be a moſt helliſh Deſign; but how could they effect it?</p>
+            </sp>
+            <pb n="6" facs="tcp:59475:4"/>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Why, truly neither their Tricks nor their Force had been able to move him, had not he himſelf unfortunately made the Work too eaſie, by loſing the Hearts of his Subjects, which was thus: He manifeſted a ſtrong Zeal for the <hi>Muf<g ref="char:EOLhyphen"/>taean Religion,</hi> to which his Subjects were bitter Enemies, upon which account they grew extremely jealous of his Reſoluti<g ref="char:EOLhyphen"/>on; and to help this forward, whereas his Brother toward the latter end of his Reign had overcome great Difficulties, and left the Kingdom in a kindly Diſpo<g ref="char:EOLhyphen"/>ſal towards an entire Uniting, both in Religion and Intereſt, <hi>Conſtantius</hi> unhap<g ref="char:EOLhyphen"/>pily unravels all, and lets the whole Herd looſe, without any Order or Keepers, who in the end to requite his kindneſs turn upon himſelf; which ſhews how dangerous a thing it is, either <hi>quieta mo<g ref="char:EOLhyphen"/>vere,</hi> or to lay the Reins on their Necks, who can neither govern themſelves, nor are willing to be governed by others. But it was not the leaſt Evil that befell him, that the Eſcopaean Party, who had all along been the moſt faithfull Subjects to him, and all his Predeceſſors, and whoſe Religion was eſtabliſhed by the Laws of <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> were utterly averſe to theſe Proceedings: But to bring them to his Bow, he impriſons ſeveral of the E<g ref="char:EOLhyphen"/>ſcops themſelves; and it was wonderfull to ſee how Crowds of People, who at other times could not afford them a good Word, were ready to adore them as pet<g ref="char:EOLhyphen"/>ty gods, when going to Priſon; ſo rea<g ref="char:EOLhyphen"/>dy were that giddy People to take all ad<g ref="char:EOLhyphen"/>vantages to reproach their Sovereign: And ſtill to encreaſe the Diſcontents he diſplaced the ableſt Miniſters of State, and many conſiderable Officers in the Army, who would not comply with his Deſires, and entertain'd others that were nothing acceptable to his Subjects. And though there were many good and able Men about him, yet he was chiefly led by them whom he favoured for their Reli<g ref="char:EOLhyphen"/>gion, who for the greateſt part were Perſons that had neither Intereſt nor Ho<g ref="char:EOLhyphen"/>neſty, neither underſtood the ſtate of the <hi>Kingdom,</hi> nor had Brains to manage it, but were wholly bent to compaſs their own Ends, though to the manifeſt ha<g ref="char:EOLhyphen"/>zard of his and their own utter Ruine.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Fooliſh and ingrateful <hi>Wretches!</hi> But do you think that he deſign'd to have eſtabliſht their way.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>No. Beſide, I think it impoſſi<g ref="char:EOLhyphen"/>ble for him to have done it; and ſo it appeared, the Point being plainly gain'd againſt them, even while he ſat on the Throne. Some particular Favour I am apt to think he deſign'd thoſe of his own Way, but his real Deſign I believe was Liberty to all; partly in Tenderneſs, partly in hope of Inviting in all ſorts of Perſons to encreaſe Trade: But he took his Aim amiſs; for the generality of the People looking on it as a Deſign to intro<g ref="char:EOLhyphen"/>duce <hi>Muftaeaniſm<g ref="char:punc">▪</g>
+                  </hi> and being continually inſtigated by Perſons engag'd in the Plot, who perpetually affrighted them with moſt dreadfull Repreſentations of it, though he at laſt did all he could to un<g ref="char:EOLhyphen"/>deceive them, yet they would never be<g ref="char:EOLhyphen"/>lieve him; which was the principal thing that coſt him his Crown, and had like to have coſt him his Life.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>A dolefull Story! But were all Men affrighted, both out of their Hone<g ref="char:EOLhyphen"/>ſty and Underſtanding? Did the <hi>Eſcopae<g ref="char:EOLhyphen"/>ans<g ref="char:punc">▪</g>
+                  </hi> who you ſay had been always loyal, forſake him?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>No. Many honeſt Men ſtood in a Maze, and utterly at a loſs; and by reaſon of a Jealouſie or Defection in all parts, the Revolution coming on like a Whirlwind, thoſe who were moſt deſi<g ref="char:EOLhyphen"/>rous, were not able to afford him any conſiderable Aſſiſtence: As for the <hi>Eſco<g ref="char:EOLhyphen"/>paeans,</hi> thoſe who were truly ſuch, were firmly loyal to him, and ſtill continue ſo,
+<pb n="7" facs="tcp:59475:4"/>and many of them have loſt their Eſtates on that account; and when I lately left <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> they were the only haraſſed and perſecuted People there, even the hated <hi>Muftaeans</hi> themſelves being infinitely bet<g ref="char:EOLhyphen"/>ter uſed. But to be plain with you, the former Troubles in <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> had ſpawn'd a mongrel Brood of <hi>Shifters,</hi> which ſome called <hi>Latitudinarians;</hi> a ſort of Men of whom you would think that Butter would not melt in their Mouths, and yet Cheeſe will not choak them; theſe crowded in among the <hi>Eſcopaeans,</hi> when reſtored, and having poſſeſſed themſelves of Places of Truſt, and the beſt Preferments, they kept a watchfull Eye over all the loyal <hi>Eſcopaeans,</hi> to keep them at an under; and thoſe that were above them they de<g ref="char:EOLhyphen"/>luded by their diſſembling Arts, till by letting in only Men of their own Way, and debauching the Underſtandings of o<g ref="char:EOLhyphen"/>thers, they had in a manner corrupted the whole <hi>
+                     <g ref="char:V">Ʋ</g>topian Church;</hi> and theſe and their whole Gang, even when they might have ſtemm'd the Tide, in the plain field forſook their <hi>King,</hi> and all the loyal <hi>Eſco<g ref="char:EOLhyphen"/>paean</hi> Principles, and preſently declared for the Worſhip of the riſing Sun; and now having got all into their hands, they impudently in their Pulpits preach away God's Commandments, and be<g ref="char:EOLhyphen"/>ſpatter and perſecute every thing that is good or honeſt.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Shameleſs Villains! May divine Vengeance overtake them. But yet you do not tell me the Fall of that unfortu<g ref="char:EOLhyphen"/>nate Prince.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I am juſt now come to that diſ<g ref="char:EOLhyphen"/>mal Scene, which would make even an Heart of Stone to ake, that had any Re<g ref="char:EOLhyphen"/>mains of Honeſty or Pity in it. Whilſt the Nation through the Miſcarriages of ſome, and the Wickedneſs of others, was thus working into the higheſt Ferment, ſo that nothing moderate could be ex<g ref="char:EOLhyphen"/>pected, <hi>Philotimus</hi> was not idle, but plied his opportunity with all advantage, and with him combine vaſt numbers even of the moſt conſiderable Perſons in the <hi>Kingdom,</hi> who were either enraged with Diſcontents and Diſappointments, or poſſeſſed with Jealouſies and Fears; ſo that <hi>Philotimus</hi> was got into the very <hi>Councils</hi> of <hi>Conſtantius:</hi> The moſt power<g ref="char:EOLhyphen"/>ful Officers of his own Army (than which none were ever paid better, nor more kindly uſed,) were in the Plot againſt him; and thoſe whom he had raiſed from nothing to great Dignities, thoſe whom he took to be his faſteſt Friends, thoſe who proteſted, promiſed, vowed, and made ſhew of the greateſt Fidelity to him, were at that very time contriving and impatient to betray him. As ſoon as things were brought to this paſs, <hi>Philoti<g ref="char:EOLhyphen"/>mus</hi> takes the Nick of Time, and being aſſiſted by the faithleſs <hi>Gallimaufrians</hi> with a large Fleet, and ſome Land-forces on Board, ſets ſail for <hi>
+                     <g ref="char:V">Ʋ</g>topia.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>But had <hi>Conſtantius</hi> no Fleet to oppoſe them.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Yes, a ſufficient one to have made the young Spark dearly repent his Attempt, if the Men had behaved them<g ref="char:EOLhyphen"/>ſelves like true <hi>
+                     <g ref="char:V">Ʋ</g>topians;</hi> but partly by Miſcarriage, partly by a Conſpiracy of the Officers againſt the Admiral (who was honeſt) to throw him over-board if he offered to ſight, nothing was done; ſo that <hi>Philotimus</hi> ſafely landed in the oc<g ref="char:EOLhyphen"/>cidental parts of <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> but with ſuch a par<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el or <hi>Tatterdemallions,</hi> ſuch Foot as were ſitter to make Scare-crows for Gar<g ref="char:EOLhyphen"/>diners, than Soldiers for a Prince; and ſuch Horſe as were not much better than <hi>
+                     <g ref="char:V">Ʋ</g>topian</hi> Aſſes; ſo that <hi>Conſtantius</hi>'s own Guard were able to have trampled them to death, without ever drawing Sword; and the Inhabitants of any Comt (<hi>i.e.</hi> a diviſion much anſwerable to your Shires) in <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> might have knockt them o'th Head with Stones.</p>
+            </sp>
+            <pb n="8" facs="tcp:59475:5"/>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>God forgive me! You repreſent this <hi>Philotimus</hi> as a kind of a fool-hardy Fellow: What! Had not <hi>Conſtantius</hi> enough to quell theſe?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Yes; and thoſe who would have done it preſently, if he could have known honeſt Men and Knaves aſunder, and not truſted moſt to the moſt faithleſs. But you miſtake the Matter as I am apt to think, that as things then were, and Matters were then managed, if he had not brought over with him an hundred Men, it had been the ſame thing; for with the firſt opportunity moſt of the great Officers of <hi>Conſtantius</hi>'s Army go over to <hi>Philotimus,</hi> and carry with them as good Forces as any the World had, till being in a manner quite forſaken, he was forced to retire to his Metropoliti<g ref="char:EOLhyphen"/>cal City; but finding there no Succour, he firſt ſent away his Queen and the young Prince, and after a ſmall time, being throughly aſſured by his own and his Ambaſſadour's ill Uſage, and the rough Treatment of all his Friends, that no leſs than the Crown would ſatisfie his good Son-in-law, notwithſtanding all his falſe Proteſtations and Declarati<g ref="char:EOLhyphen"/>ons to the contrary, he endeavoured to convey himſelf away, as being ſenſible, that they would not long endure him to live to their Reproach, whom they had deprived of all things but Life.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>He that uſurps a <hi>King's Throne,</hi> is obliged to take away his Life to ſecure his own, which can never be ſafe whilſt the lawfull Prince ſurvives, to whom ſome time or other the Hearts of the Subjects moſt certainly return; But is it poſſible that he got out of their hands?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>He did at laſt, but after ſo ma<g ref="char:EOLhyphen"/>ny Difficulties, Dangers, and ill Uſage, that I look upon his Eſcape as little leſs than miraculous, and a good Preſage of his Return.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Pray how was it?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>In ſhort thus: His firſt Attempt was fruſtrated, he being taken at Sea by his own Subjects, and brought back a Priſoner on ſhoar to a Port called <hi>Febri<g ref="char:EOLhyphen"/>vill,</hi> where the rude Seamen were his Guards, puffing ſtinking Tobacco in his Face, (which he extremely hated.) And the coming in of the Gentry did not much mend the Matter, for they rather encouraged than checked their Incivili<g ref="char:EOLhyphen"/>ties, eſpecially two of the <hi>Equeſtrian</hi> Or<g ref="char:EOLhyphen"/>der, <hi>Bovinian</hi> and <hi>Benedict;</hi> the one a proud, ſtately, political Coxcomb, who over-ruled and ordered all things; the other a buſie active Tool, made uſe of to abuſe the <hi>King</hi> in all things; and whilſt theſe gave him up to his Enemies, and ſuffered not his Friends to come at him, it wanted but little that his Brains were not knock'd out: But being relieved out the hands of theſe Raſcallionee, he re<g ref="char:EOLhyphen"/>turned to his <hi>Metropolis,</hi> where being re<g ref="char:EOLhyphen"/>ceived with all joy and kindneſs imagi<g ref="char:EOLhyphen"/>nable, it ſo allarmed <hi>Philotimus,</hi> that he forbad his ſtay there; ſo retiring to a ſmall City, under a Guard of <hi>Gallimau<g ref="char:EOLhyphen"/>frians,</hi> before a cleanly Contrivance to take away his Life could be invented, by the help of two Friends he made a very dangerous and yet fortunate Eſcape into the Country of <hi>Magnanimus,</hi> where he, his Queen, and his Son were kindly received; and there they were when I came from <hi>
+                     <g ref="char:V">Ʋ</g>topia.</hi> One thing there is which <hi>ought</hi> not to be <hi>forgotten;</hi> under all theſe <hi>Troubles,</hi> and barbarous <hi>Indigni<g ref="char:EOLhyphen"/>ties,</hi> ſuch was the admirable <hi>Patience</hi> and Evenneſs of <hi>Temper</hi> of the forſaken <hi>Con<g ref="char:EOLhyphen"/>ſtantius,</hi> that you cannot believe it, un<g ref="char:EOLhyphen"/>leſs your Eyes had ſeen and your Ears heard it.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Who would much value any thing in this World, when he ſees ſo <hi>great a Prince</hi> ſo quickly and eaſily redu<g ref="char:EOLhyphen"/>ced to <hi>Nothing?</hi>
+               </p>
+            </sp>
+            <pb n="9" facs="tcp:59475:5"/>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I forgot to tell you the horrid palpable Lies, which helped forward this great turn of Affairs; and indeed I am aſhamed to repeat them: As how the young Prince was confidently repor<g ref="char:EOLhyphen"/>ted (notwithſtanding never any Child's Birth was more clearly proved) to be an <hi>Impoſtor,</hi> and that <hi>Philotimus</hi> had brought the true Mother along with him; how the People were allarmed in all parts of the Land at once, that the <hi>Ieronians</hi> were coming to cut their Throats, who were a handfull of Men in dread of their Lives, and not able to defend them; how Rumors prevailed, that the <hi>Muftae<g ref="char:EOLhyphen"/>an Religion</hi> was to be introduced by Fire, Fagot, and barbarous Maſſacres, and a thouſand other Stories, the Impoſſibility of which were enough to convince any underſtanding Man of their Falſhood, but that the <hi>
+                     <g ref="char:V">Ʋ</g>topians</hi> under ſuch Ferments are a People who greedily ſwallow the moſt fulſome palpable Lies that can be invented.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Well; now I ſuppoſe that <hi>Phi<g ref="char:EOLhyphen"/>lotimus</hi> has gained his Ends.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Not ſo eaſily as you imagine; for there were three before him, who by the Conſtitutions of <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> (though (<hi>Con<g ref="char:EOLhyphen"/>ſtantius</hi> had been ſlain) were to ſucceed in their turns, of whom one was his own Wiſe <hi>Aſtorge,</hi> though not the firſt; when this was debated, the Friends of <hi>Conſtan<g ref="char:EOLhyphen"/>tius</hi> began a little to hope and work; but finding it impoſſible at that time to doe any thing for him directly, they moved for a <hi>Regency,</hi> which took with many, as moſt plauſible and moderate courſe: Now though I think a Regency is allow<g ref="char:EOLhyphen"/>ed by the Laws of <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> only in caſe of ſome natural Incapacity, as <hi>Infancy, Lunacy, Dotage,</hi> &amp;c. yet their Deſign was well and wiſely laid in ſuch an un<g ref="char:EOLhyphen"/>governable Confuſion; for their Aim was thereby partly to keep up the Name and Authority of <hi>Conſtantius,</hi> and ſhackle <hi>Philotimus,</hi> by making him accountable; partly that they might gain time to let the Ferment ſettle, and the People re<g ref="char:EOLhyphen"/>turn to their Wits, not doubting but that then an uſeleſs and chargeable <hi>Regency</hi> would ſoon be laid aſide; ſo by this means they hoped both to reſtore their King, and alſo to preſerve their Conſti<g ref="char:EOLhyphen"/>tutions; but <hi>Philotimus,</hi> either by the help of thoſe about him, or by his own malitious Sagaciouſneſs, ſmelt out the honeſt Plot, and with Indignation re<g ref="char:EOLhyphen"/>jected the Offer: So when nothing elſe would ſerve his turn, the Rabble grow<g ref="char:EOLhyphen"/>ing impatient; and the Endeavours of all honeſt Men baffled, <hi>Aſtorge</hi> for faſhion ſake was named with him, and both (forſooth) triumphantly crowned King and Queen, contrary to all the known Conſtitutions of the Kingdom; but the <hi>Invalidity</hi> and <hi>Nullity</hi> of ſuch Proceedings you and I diſcourſed at our laſt Meeting, and the Reaſons then given are every whit as firm for the <hi>
+                     <g ref="char:V">Ʋ</g>topian</hi> Conſtitution, as our own; and therefore I ſhall not enter again upon that Diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>But could his Daughter be eaſily brought to it, not only to conſent to the driving away her Father but in Perſon to enter upon his Throne?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Thoſe are week Arguments in<g ref="char:EOLhyphen"/>deed, which will not perſuade an ill Per<g ref="char:EOLhyphen"/>ſon to accept a <hi>Crown,</hi> though none of his own. There were ſome that drea<g ref="char:EOLhyphen"/>med better things of her, but ſhe was ſo far from expreſſing any Duty to her Fa<g ref="char:EOLhyphen"/>ther, (though perhaps it was in her power to have recalled and reſtored him,) that ſhe kept and managed the Kingdom of <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> whilſt <hi>Philotimus</hi> drove him out of another; for you muſt know, that the King of <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> hath two other <hi>Crowns,</hi> as being alſo King of <hi>Ca<g ref="char:EOLhyphen"/>ledonia</hi> and <hi>Fernia.</hi> Soon after that <hi>Phi<g ref="char:EOLhyphen"/>lotimus</hi>
+                  <pb n="10" facs="tcp:59475:6"/>had trickt him out of <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> the <hi>Hyperephanians</hi> betrayed <hi>Caledonia,</hi> upon Promiſe that their <hi>Dagon,</hi> the <hi>Kuriack Government,</hi> (as they call it,) ſhould be ſettled. But ſtill one Kingdom was left to <hi>Conſtantius,</hi> to which he repaired; but <hi>Philotimus</hi> had the <hi>Impudence</hi> to pretend that to be an Appurtenance to his other Booty, and that having robbed him of the principal <hi>Kingdom,</hi> he ought to give up the other as an <hi>Appendix</hi> to it; and accordingly in good earneſt ſent an Ar<g ref="char:EOLhyphen"/>my againſt him, and afterwards went himſelf; and the <hi>Ieronians</hi> being poor, and for ſome Ages being accuſtomed to the Yoke of the <hi>
+                     <g ref="char:V">Ʋ</g>topians,</hi> they did not well quit themſelves; and ſo partly by Arms, partly by Money, were too ſoon reduced, and the juſt <hi>Conſtantius</hi> diſpoſ<g ref="char:EOLhyphen"/>ſeſſed of all.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Well; but pray what were the Effects of this brave Feat? Did the <hi>
+                     <g ref="char:V">Ʋ</g>to<g ref="char:EOLhyphen"/>pians</hi> much mend themſelves; or did the Confederated Princes take <hi>Magnanimus</hi> a Pin lower?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>It did give <hi>Magnanimus</hi> ſome Trouble; but <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> is not able to doe that under a <hi>green <g ref="char:V">Ʋ</g>ſurper,</hi> which it can do under a <hi>lawfull</hi> and <hi>ſettled King.</hi> But all thoſe Difficulties <hi>Magnanimus</hi> broke through, got ground on them all, and is now arrived to that Strength, that when I left <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> the People there began to talk, that if the combin'd Princes did not doe ſomething very conſiderable a<g ref="char:EOLhyphen"/>gainſt the <hi>next Summer,</hi> he would either conſtrain <hi>Conſtantius</hi>'s Subjects to recall him home, or reſtore him whether they would or not.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Why, by this I gueſs, that the <hi>
+                     <g ref="char:V">Ʋ</g>topians</hi> have been no great Gainers by the Bargain.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Gainers, ſay you? Infinite Lo<g ref="char:EOLhyphen"/>ſers! For during the Reign of <hi>Conſtan<g ref="char:EOLhyphen"/>tius</hi> they had perhaps but too much Li<g ref="char:EOLhyphen"/>berty, no Taxes, great Trade, and a fair proſpect of greater; both <hi>King</hi> and <hi>Peo<g ref="char:EOLhyphen"/>ple</hi> were rich, and had not their own Wickedneſſes and Jealouſies drawn Miſ<g ref="char:EOLhyphen"/>chief upon them, they were then per<g ref="char:EOLhyphen"/>haps the moſt flouriſhing <hi>Kingdom</hi> in the World: but now it is quite contrary, ſcarce leſs than forty thouſand of thoſe who ſo baſely rebelled againſt <hi>Conſtantius,</hi> ſquirted out their Lives in <hi>Iernia;</hi> great Sickneſſes fell into their Naval Forces, and it is ſaid, many were little better than ſtarved for want of Proviſions: Thoſe who were ſent to aid the combi<g ref="char:EOLhyphen"/>ned Princes were ill paid, worſe uſed, and no ſmall part of them either lan<g ref="char:EOLhyphen"/>guiſhed away their Lives, or were ſlain by the Enemy; ſo that not leſs than the Lives of a 100000 Men have been ſacri<g ref="char:EOLhyphen"/>ficed in this ſuper-brave Adventure.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>They have made a ſine Market of it.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Nay, worſe yet; They are ha<g ref="char:EOLhyphen"/>raſſed with all ſorts of Taxes, and ſo heavy as was never under any Prince's Reign; but which is worſt of all, the Money is not raiſed for their own De<g ref="char:EOLhyphen"/>fence, nor ſpent in their own Countrey, but ſent abroad, whence it never comes back again; ſo that if this Trade hold, they in the end muſt be drained dry, and there is ſome hopes they may live to ſee Leathern Money again. As for that lit<g ref="char:EOLhyphen"/>tle Money that is left, it is ſo clipt and cropt, that it hath loſt above one third of its Value; and yet after all this no bo<g ref="char:EOLhyphen"/>dy is paid; and it is very pleaſant to ſee how this new Prince runs into the Tradeſmens Debts for all Commodities, and makes the Soldiers and Seamen ſerve him without Pay: And though by this you would think he had no occaſion for Money, yet he borrows of all their rich Fools he can find, and by that means he hath raiſed vaſt Summs of Money,
+<pb n="11" facs="tcp:59475:6"/>which they are to be repaid at <hi>Latter-Lammas.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>If theſe be the Bleſſings of Rebel<g ref="char:EOLhyphen"/>lion, they alone (one would think) ſhould be enough to make Men out of love with it.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Hold, good Sir, not too faſt; you have not half their Bleſſings yet, which are ſo great, and ſo many, that I am not able to reckon them; but that I may not be too troubleſome, I will only give you a taſte of ſome few more, and ſo leave you. <hi>Trade,</hi> without which <hi>
+                     <g ref="char:V">Ʋ</g>topia</hi> cannot well ſubſiſt, is in a manner loſt, the greateſt part of which is en<g ref="char:EOLhyphen"/>groſſed by their mortal Enemies the <hi>Galimaufrians,</hi> who abuſe them at their own Doors; and indeed they are be<g ref="char:EOLhyphen"/>come the Scorn and Reproach of all Na<g ref="char:EOLhyphen"/>tions: And it is not their leaſt diſadvan<g ref="char:EOLhyphen"/>tage, that in this Revolution they have not loſt fewer than forty Ships of War, which were enough to make a <hi>Navy Royal</hi> for ſome other <hi>Kingdoms;</hi> and then for Merchant Ships, they have either periſhed, or been taken without number; nor doth a Week paſs, wherein there is not news of ſome great Loſs or other. And whilſt all things thus ſeem to con<g ref="char:EOLhyphen"/>ſpire their Ruine, <hi>Philotimus</hi> plays the Devil and all among them, not only hanging, impriſoning, and fining at plea<g ref="char:EOLhyphen"/>ſure, but making them ſwear and for<g ref="char:EOLhyphen"/>ſwear, as if he were reſolved not to leave one honeſt Man among them; and this they think the onely way to make them <hi>God's Favourites,</hi> by which you may perceive with how great Reaſon one of his bold Levites, juſt as I left <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> ſtyled him, <hi>Their Deliverer from Slavery both of Soul and Body.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Heavens bleſs me! Were ever Men arrived to that height of Wicked<g ref="char:EOLhyphen"/>neſs, as to outface God, and make him the Patron of unheard of Villanies? Though theſe People are ſo far remote, that they are ſcarce known to us but by name, yet I cannot but comiſerate their wofull condition: But is it poſſible that ſuch a Complication of Miſeries, and evident proſpect of Ruine, ſhould not make them conſider, and think of re<g ref="char:EOLhyphen"/>turning to their Duty, if it were but for their bare Intereſt's ſake?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Not too much of that, I pray: For Rebellion in this is but too much like the Sin againſt the <hi>Holy Ghoſt,</hi> that Men <hi>rarely or never repent of it;</hi> if you ſhould offer to diſpute the Caſe, and deſire them to conſider, all you get is ſome ſuch return as this; one cries, <hi>a Curſe on all Conſideration, it's enough to make a Man mad; o'er Shoes, o'er Boots; I am in, and muſt go thorough.</hi> Another cries, <hi>What ſhould I conſider for? I don't care to trouble my ſelf; I cannot help Matters; if I may be as I am, I do not hope to be better.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Though you repreſent their Condition as hopeleſs, yet by what you ſay, that People ſeem not to be altoge<g ref="char:EOLhyphen"/>ther inſenſible that they have done a<g ref="char:EOLhyphen"/>miſs; for refuſing to conſider is a tacit Confeſſion of Guilt; For why ſhould they refuſe to conſider, but that they are affraid to awaken their Conſciences, which they are aware is ready to fly in their Faces, as ſoon as ever they look back upon their Actions? But ſuch a Temper is an Argument of a loſt People. God himſelf intimates his Peoples Con<g ref="char:EOLhyphen"/>dition as deſperate, when he complains, that <hi>they would not conſider;</hi> and indeed it is impoſſible, that ever Men ſhould re<g ref="char:EOLhyphen"/>turn and repent, if they will not conſi<g ref="char:EOLhyphen"/>der of the evil of their Ways; and con<g ref="char:EOLhyphen"/>ſequently ſuch muſt inevitably periſh.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I am affraid their Ruine is nigh; for <hi>quos Deus vult perdere dementat prius.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>But pray what do you think may be the Reaſon, that a People ſhould
+<pb n="12" facs="tcp:59475:7"/>ſee themſelves in ſuch evil Caſe, and yet not lay it to heart?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Truly I think the greateſt Rea<g ref="char:EOLhyphen"/>ſon to be their Averſion to the Religion of <hi>Conſtantius,</hi> and their Fears that he will impoſe it on them, and ſettle it there, if he ſhould return.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>But do you think that he would doe ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>I do not think that he either will or can; for if they themſelves call him home, there can be no fear of it: Nay, they would gain this farther Advantage, that the Prince his Son would be bred up in the Religion of the Countrey; which would ſcure them for the future, and which is a thing he hath offered. All the danger is, if upon their obſtinacy he ſhould return by Force; but even them I think he could not doe it: For beſides that the People are ſo naturally averſe to that Religion, that they would never receive it, the Endeavours to enforce it would render them ſo deſperate, that he could never be ſafe: To plant that Religion there thoroughly, would coſt more Blood than was ſpilt in all the hea<g ref="char:EOLhyphen"/>then Perſecution; and I cannot ima<g ref="char:EOLhyphen"/>gine, that a Prince ſhould deſire to reign in a Wilderneſs, and deſtitute of Sub<g ref="char:EOLhyphen"/>jects. Beſide, this is leaſt imaginable as to him of all others, whoſe peculiar Am<g ref="char:EOLhyphen"/>bition ſeemed always to have been to have enriched his Subjects, and make his <hi>Kingdoms</hi> ſtrong and flouriſhing.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>Well; I thank you for this Ac<g ref="char:EOLhyphen"/>count. I wiſh they may not ſtand in their own Light, but repent before it is too late: I confeſs I had once a kind<g ref="char:EOLhyphen"/>neſs for ſuch kind of ways, but your Diſcourſe hath thoroughly cured me.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Nay, pray ſtay: Now I am come home, did not you promiſe me to acquaint me with the ſtate of our own Countrey?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I think not; but this I will tell you, I have heard Men philoſophically prate of a Sympathy in Animals, Vege<g ref="char:EOLhyphen"/>tables, and even the moſt inſenſible ina<g ref="char:EOLhyphen"/>nimate Creatures; and though I thought my ſelf not much wiſe for their Diſ<g ref="char:EOLhyphen"/>courſe, yet I did believe there was ſuch a Thing; but now I begin to ſuſpect there is more, even a Sympathy between <hi>Countreys</hi> and <hi>Kingdoms.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>What makes you talk at this rate?</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>A little time will expound the Riddle; by that you have converſed ſome time here, you will better under<g ref="char:EOLhyphen"/>ſtand me; but what if at our next Meet<g ref="char:EOLhyphen"/>ing you ſhould tell me, that <hi>Hypocrates</hi>'s Twins were not more like each other, nor more ſympathizing in all things than are your own Countrey and <hi>
+                     <g ref="char:V">Ʋ</g>topia.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>God forbid! I would not again be in ſuch a <hi>Bedlam</hi> as <hi>
+                     <g ref="char:V">Ʋ</g>topia,</hi> for all the World.</p>
+            </sp>
+            <sp>
+               <speaker>Phil.</speaker>
+               <p>I wiſh you may find your own home any better; but my Buſineſs calls me away, and that muſt be left to your Experience. Farewell.</p>
+            </sp>
+            <sp>
+               <speaker>Soph.</speaker>
+               <p>Beſhrew your Heart for me; your cautious Suggeſtion hath put me in<g ref="char:EOLhyphen"/>to a Fright; but my Occaſions alſo want me. Adieu till we meet again.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, M.DC.XCII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
